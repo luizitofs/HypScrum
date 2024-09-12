@@ -1,0 +1,4 @@
+- É necessário termos o protótipo mobile e desktop?
+- Podemos fazer uma avaliação final para emitir o certificado?
+- Os protótipos precisam ser totalmente fidedignos, ou seja, precisaremos prototipar a tela de cada um dos tópicos que serão abordados no sistema?
+- No site teremos uma seção 'Sobre nós' para falarmos um pouco da empresa?

@@ -1,0 +1,48 @@
+**User story:**
+
+Como usuário da área de TI
+Quero uma paleta de cores que facilite a transmissão da mensagem proposta pela aplicação, um conteúdo claro e objetivo e um protótipo com telas navegáveis
+Para que eu possa visualizar como será a aplicação
+
+
+**Nível de prioridade:**
+
+1 - Paleta de cores
+2 - Protótipo navegável (Mobile e Desktop)
+3 - Textos e imagens que serão utilizados, atendendo aos seguintes tópicos:
+
+    - Cultura e mindset ágil
+    - Princípios e valores do Scrum
+    - Papéis do scru
+    - Artefatos do Scrum
+    - Eventos do Scrum
+    - Framework de trabalho
+    - Técnicas e ferramentas
+
+4 - Questões baseadas nos textos
+
+
+**Subdivisão da equipe**
+
+Protótipo:
+
+    Andressa
+    Marcella
+    Gustavo
+    Adson
+
+Conteúdo:
+
+    Eduardo
+    Carlos
+    Tauane
+    Luiz
+
+
+**DoD(Definition of Done)**
+
+- Paleta de cores auxilia na transmissão da mensagem de forma clara e eficaz
+- Telas navegáveis e interagindo entre si (Mobile e Desktop)
+- Textos claros, objetivos, coesos  e com imagens que complementam as explicações
+- Questões podem ser respondidas de acordo com aquilo que foi explicado nos textos
+- Validação dos textos e das questões foi realizado entre os membros do time
